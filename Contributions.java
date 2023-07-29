@@ -12,7 +12,6 @@ public class Contributions {
         int kt_numberOfContributions = 0;
         double kt_maxContribution = 0;
         double kt_minContribution = 10000000;
-        // final double MAX_TOTAL = 10000000;
         double kt_avgContribution = 0;
         double kt_totalContributions = 0;
         double kt_inputDataFromFile;
